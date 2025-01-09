@@ -1,28 +1,30 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        if(k==1) return nums;
-        int n = nums.size();
-        if(k == n) return {*max_element(nums.begin(), nums.end())};
-        vector<int> ans;
-        unordered_map<int,int> mp;
-        priority_queue<pair<int,int>> p;
-        
-        cout<<*max_element(nums.begin(), nums.begin()+k);
-        ans.push_back(*max_element(nums.begin(), nums.begin()+k));
-        for(int i=0;i<k;i++) {
-            p.push({nums[i], i});
+        if(k == 1) {
+            return nums;
         }
-        if(k < n) {
-            for(int i=k;i<n;i++) {
-                mp[nums[i-k]] = i-k;
-                p.push({nums[i], i});
-                while(mp.find(p.top().first) != mp.end() and
-                p.top().second <= i-k) {
-                    p.pop();
-                }
-                ans.push_back(p.top().first);
+        deque<int> dq;
+        dq.push_back(0);
+
+        for(int i=1;i<k;i++) {
+            while(!dq.empty() and nums[i] > nums[dq.back()]) {
+                dq.pop_back();
             }
+            dq.push_back(i);
+        }
+
+        vector<int> ans;
+        ans.push_back(nums[dq.front()]);
+
+        for(int i=k;i<nums.size();i++) {
+            while(!dq.empty() and dq.front() < (i-k+1)) dq.pop_front();
+
+            while(!dq.empty() and nums[i] > nums[dq.back()]) {
+                dq.pop_back();
+            }
+            dq.push_back(i);
+            ans.push_back(nums[dq.front()]);
         }
         return ans;
     }
