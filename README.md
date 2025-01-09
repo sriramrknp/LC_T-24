@@ -21,4 +21,24 @@ LC jouney
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sriramrknp/LC_T-24/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Array
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sriramrknp/LC_T-24/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sriramrknp/LC_T-24/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sriramrknp/LC_T-24/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sriramrknp/LC_T-24/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sriramrknp/LC_T-24/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
