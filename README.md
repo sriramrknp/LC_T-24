@@ -11,6 +11,7 @@ LC jouney
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sriramrknp/LC_T-24/tree/master/0078-subsets) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sriramrknp/LC_T-24/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sriramrknp/LC_T-24/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sriramrknp/LC_T-24/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -25,6 +26,7 @@ LC jouney
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sriramrknp/LC_T-24/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/sriramrknp/LC_T-24/tree/master/0239-sliding-window-maximum) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sriramrknp/LC_T-24/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Queue
@@ -77,4 +79,8 @@ LC jouney
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sriramrknp/LC_T-24/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sriramrknp/LC_T-24/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
