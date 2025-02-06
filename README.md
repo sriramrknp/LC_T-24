@@ -6,12 +6,14 @@ LC jouney
 ## String
 |  |
 | ------- |
+| [0800-letter-case-permutation](https://github.com/sriramrknp/LC_T-24/tree/master/0800-letter-case-permutation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sriramrknp/LC_T-24/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sriramrknp/LC_T-24/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sriramrknp/LC_T-24/tree/master/0078-subsets) |
+| [0800-letter-case-permutation](https://github.com/sriramrknp/LC_T-24/tree/master/0800-letter-case-permutation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sriramrknp/LC_T-24/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sriramrknp/LC_T-24/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sriramrknp/LC_T-24/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -83,4 +85,5 @@ LC jouney
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sriramrknp/LC_T-24/tree/master/0078-subsets) |
+| [0800-letter-case-permutation](https://github.com/sriramrknp/LC_T-24/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
