@@ -13,6 +13,7 @@ LC jouney
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sriramrknp/LC_T-24/tree/master/0078-subsets) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sriramrknp/LC_T-24/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0800-letter-case-permutation](https://github.com/sriramrknp/LC_T-24/tree/master/0800-letter-case-permutation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sriramrknp/LC_T-24/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sriramrknp/LC_T-24/tree/master/2059-unique-length-3-palindromic-subsequences) |
