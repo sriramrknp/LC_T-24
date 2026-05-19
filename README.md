@@ -22,6 +22,7 @@ LC jouney
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sriramrknp/LC_T-24/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2540-minimum-common-value](https://github.com/sriramrknp/LC_T-24/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -32,6 +33,7 @@ LC jouney
 | [0078-subsets](https://github.com/sriramrknp/LC_T-24/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/sriramrknp/LC_T-24/tree/master/0239-sliding-window-maximum) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sriramrknp/LC_T-24/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2540-minimum-common-value](https://github.com/sriramrknp/LC_T-24/tree/master/2540-minimum-common-value) |
 ## Queue
 |  |
 | ------- |
@@ -87,4 +89,12 @@ LC jouney
 | ------- |
 | [0078-subsets](https://github.com/sriramrknp/LC_T-24/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/sriramrknp/LC_T-24/tree/master/0800-letter-case-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/sriramrknp/LC_T-24/tree/master/2540-minimum-common-value) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/sriramrknp/LC_T-24/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
